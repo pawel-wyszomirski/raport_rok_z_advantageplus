@@ -4,7 +4,7 @@ title: 'Rok z Advantage+, czyli jak obniżyć koszty i zwiększyć** **sprzedaż
 <style>
 .two-column-layout {
   column-count: 2; /* Set column number */
-  column-gap: 20px;
+  column-gap: 30px;
   max-width: 100%;
   overflow: hidden;
 }
@@ -46,143 +46,50 @@ title: 'Rok z Advantage+, czyli jak obniżyć koszty i zwiększyć** **sprzedaż
 </style>
 
 # Raport: Rok z Advantage+, czyli jak obniżyć koszty i zwiększyć sprzedaż z Meta AI?
-### Streszczenie
 
-::::info
+::::success
 ### **Meta obiecuje, że Advantage+ to przełom w reklamie dzięki sztucznej inteligencji. Po roku testów? Jest nieźle, ale diabeł tkwi w szczegółach.** 
 ::::
-
-:::spoiler
-
+ 
 <div class="two-column-layout">
-Zacznijmy od dobrych wieści. Firmy korzystające z Advantage+ notują średnio 22% wzrost ROAS, a niektóre nawet 32%. System naprawdę potrafi znaleźć właściwych odbiorców i zoptymalizować kampanie. Szczególnie dobrze sprawdza się w e-commerce, gdzie automatycznie dobiera produkty do reklam na podstawie zachowań użytkowników.
+    
+Zacznijmy od dobrych wieści. Firmy korzystające z Advantage+ notują średnio **22% wzrost ROAS, a niektóre nawet 32%**. System naprawdę potrafi znaleźć właściwych odbiorców i zoptymalizować kampanie. Szczególnie dobrze sprawdza się w e-commerce, gdzie automatycznie dobiera produkty do reklam na podstawie zachowań użytkowników.
+    
+Ale nie wszystko złoto, co się świeci. ====**Koszty kampanii Advantage+ rosną szybciej niż w przypadku standardowych reklam. CPM potrafi skoczyć nawet 10-krotnie.**==== W sieci pojawiają się zalecenia, że **Advantage+ działa dobrze przy budżecie miesięcznym minimum 3 tys. zł. na kampanię**, co dla wielu małych firm może być sporym wyzwaniem.
 
-Ale nie wszystko złoto, co się świeci. Koszty kampanii Advantage+ rosną szybciej niż w przypadku standardowych reklam. CPM potrafi skoczyć nawet 10-krotnie. W sieci pojawiają się zalecenia, że Advantage+ działa dobrze przy budżecie minimum 30 000 dolarów na kampanię, co dla wielu firm może być sporym wyzwaniem. Dla innych sferą marzeń.
+**Co działa, a co nie?** Automatyczne umiejscowienia reklam (Advantage+ Placements) sprawdzają się świetnie \- system naprawdę potrafi znaleźć skuteczne miejsca wyświetlania. Za to automatyczne zarządzanie budżetem często zawodzi, szczególnie gdy mamy grupy odbiorców różnej wielkości.
 
-Co działa, a co nie? Automatyczne umiejscowienia reklam (Advantage+ Placements) sprawdzają się świetnie \- system naprawdę potrafi znaleźć skuteczne miejsca wyświetlania. Za to automatyczne zarządzanie budżetem często zawodzi, szczególnie gdy mamy grupy odbiorców różnej wielkości.
+Ciekawostka \- **według niektórych testów tylko 17% konwersji raportowanych przez Metę było rzeczywistych**. Warto więc dokładnie weryfikować wyniki.
 
-Ciekawostka \- według niektórych testów tylko 17% konwersji raportowanych przez Metę było rzeczywistych. Warto więc dokładnie weryfikować wyniki.
+**Praktyczne wskazówki?** Ustaw limity wydatków na poziomie reklamy, regularnie dodawaj nowe kreacje i nie polegaj ślepo na automatyzacji. System świetnie radzi sobie z targetowaniem i testowaniem różnych wariantów reklam, ale potrzebuje twojej kontroli nad budżetem i strategią.
 
-Praktyczne wskazówki? Ustaw limity wydatków na poziomie reklamy, regularnie dodawaj nowe kreacje i nie polegaj ślepo na automatyzacji. System świetnie radzi sobie z targetowaniem i testowaniem różnych wariantów reklam, ale potrzebuje twojej kontroli nad budżetem i strategią.
-
-Przyszłość? Meta intensywnie rozwija narzędzia AI do generowania treści reklamowych i jeszcze lepszego targetowania. Ale nawet najlepsza sztuczna inteligencja nie zastąpi dobrej strategii i kreatywności.
-
-Advantage+ to potężne narzędzie, ale wymaga umiejętnego wykorzystania. Jak mawiają doświadczeni marketerzy \- ufaj danym, ale kontroluj budżet.
+**Przyszłość?** W 2025 roku ====**Meta wyda 60-65 mld dolarów na intensywny rozwój infrastruktury i narzędzi AI**====, w tym do generowania treści reklamowych i jeszcze lepszego targetowania. Z tej drogi nie ma odwrotu. Ale nawet najlepsza sztuczna inteligencja nie zastąpi dobrej strategii i kreatywności.
+>[!Tip] Do zapamiętania
+    Advantage+ to potężne narzędzie, ale wymaga umiejętnego wykorzystania. Jak mawiają doświadczeni marketerzy \- ufaj danym, ale kontroluj budżet.
 </div>
-:::
+
+:::info
 
 ### Kluczowe wnioski
 
-**1\.** System skutecznie znajduje właściwych odbiorców i optymalizuje kampani
+* System skutecznie znajduje właściwych odbiorców i optymalizuje kampani
+* Szczególnie dobrze sprawdza się w e-commerce
+* Koszty kampanii Advantage+ rosną szybciej niż standardowych reklam
+* Zalecany wg ekspertów minimalny budżet miesięczny to 3 tys. zł. na kampanię, ale niektórzy mówią nawet o 30 tys. dolarów przy testowaniu 150 wariantów.
 
-**2\.** Szczególnie dobrze sprawdza się w e-commerce
+::::
 
-**3\.** Koszty kampanii Advantage+ rosną szybciej niż standardowych reklam
+>[!Important] Nie masz czasu czytać dalej?
+[👉 Kliknij i zobacz interaktywne podsumowanie kluczowych elementów raportu](https://claude.site/artifacts/ecf0222a-5adf-45ec-98f7-f04a4500b84d?fullscreen=true).
 
-**4\.** Zalecany wg ekspertów minimalny budżet: 30 000 dolarów na kampanię
+ 
 
-👉 [Nie masz czasu czytać dalej?](https://claude.site/artifacts/ecf0222a-5adf-45ec-98f7-f04a4500b84d?fullscreen=true)  
-[Kliknij i zobacz interaktywne podsumowanie kluczowych elementów raportu](https://claude.site/artifacts/ecf0222a-5adf-45ec-98f7-f04a4500b84d?fullscreen=true).
+# O czym to będzie? :thinking_face: 
+::::success
+**Meta Advantage+ to zestaw narzędzi reklamowych opartych na sztucznej inteligencji (AI), który został stworzony w celu usprawnienia i automatyzacji kampanii reklamowych na platformach Facebook i Instagram.** 
+::::
 
-# 
-
-# Spis treści
-
-**[Techniczne aspekty Meta Advantage+	6](#heading=h.h901gpufpiik)**
-
-[Infrastruktura AI	6](#infrastruktura-meta-ai)
-
-[Mechanizmy backendowe	7](#mechanizmy-backendu)
-
-[Algorytmy AI	9](#algorytmy-ai)
-
-[Automatyzacje	11](#automatyzacje)
-
-[**Funkcje i narzędzia Meta Advantage+	14**](#funkcje-i-narzędzia-meta-advantage+)
-
-[Advantage+ Creative	14](#advantage+-creative)
-
-[Advantage+ Placements	16](#advantage+-placements)
-
-[Advantage+ Audience	18](#advantage+-audience)
-
-[Dynamic Creative	20](#dynamic-creative)
-
-[Nowe funkcje	23](#nowe-funkcje)
-
-[**Skuteczność Meta Advantage+ w praktyce	25**](#skuteczność-meta-advantage+-w-praktyce)
-
-[Analiza wyników	25](#analiza-wyników)
-
-[Studia przypadków	27](#studia-przypadków)
-
-[Porównanie z tradycyjnymi kampaniami	28](#porównanie-z-tradycyjnymi-kampaniami)
-
-[Wykorzystanie danych z piksela Facebooka	31](#wykorzystanie-danych-z-piksela-facebooka)
-
-[Testowanie A/B	32](#testowanie-a/b)
-
-[**Jak wykorzystać Meta Advantage+ do tworzenia skutecznych kampanii?	34**](#jak-wykorzystać-meta-advantage+-do-tworzenia-skutecznych-kampanii?)
-
-[Strategia kampanii	34](#strategia-kampanii)
-
-[Monitorowanie i analiza	36](#monitorowanie-i-analiza)
-
-["Wyłączniki awaryjne"	38](#"wyłączniki-awaryjne")
-
-[Dostosowywanie budżetu	40](#dostosowywanie-budżetu)
-
-[Rola jakości materiałów reklamowych	42](#rola-jakości-materiałów-reklamowych)
-
-[Wykorzystanie "Grupy odbiorców Advantage+"	43](#wykorzystanie-"grupy-odbiorców-advantage+")
-
-[Personalizacja	45](#personalizacja)
-
-[Integracja z innymi platformami	48](#integracja-z-innymi-platformami)
-
-[Zalecenia Mety	49](#zalecenia-mety)
-
-[**Ograniczenia i wyzwania	52**](#ograniczenia-i-wyzwania)
-
-[Ograniczenia targetowania	52](#ograniczenia-targetowania)
-
-[Wahania w ROAS i koszty	54](#wahania-w-roas-i-koszty)
-
-[Pułapki automatyzacji	55](#pułapki-automatyzacji)
-
-[Niedopracowane funkcje	57](#niedopracowane-funkcje)
-
-[Zaufanie do algorytmów	59](#zaufanie-do-algorytmów)
-
-[**Przyszłość Meta Advantage+	62**](#przyszłość-meta-advantage+)
-
-[Rozwój technologii AI	62](#rozwój-technologii-ai)
-
-[Generatywna AI w produkcji reklam	63](#generatywna-ai-w-produkcji-reklam)
-
-[Uproszczenie interfejsu	64](#uproszczenie-interfejsu)
-
-[Doskonalenie algorytmów	65](#doskonalenie-algorytmów)
-
-[**Podsumowanie	68**](#podsumowanie)
-
-[Główne wnioski	68](#główne-wnioski)
-
-[Rekomendacje	69](#rekomendacje)
-
-[Przyszłość reklam z AI	72](#przyszłość-reklam-z-ai)
-
-[**Aneks	75**](#aneks)
-
-[Tabela z podsumowaniem danych	75](#tabela-z-podsumowaniem-danych)
-
-[Źródła	78](#źródła)
-
-# 
-
-# Wstęp
-
-###### **Meta Advantage+ to zestaw narzędzi reklamowych opartych na sztucznej inteligencji (AI), który został stworzony w celu usprawnienia i automatyzacji kampanii reklamowych na platformach Facebook i Instagram.** 
+<div class="two-column-layout">
 
 Jego wprowadzenie było bezpośrednią odpowiedzią na zmiany w polityce prywatności firmy Apple (iOS 14), które znacznie **ograniczyły możliwości śledzenia i targetowania użytkowników**. Te zmiany miały istotny wpływ na reklamodawców, zwłaszcza tych, którzy polegali na precyzyjnym targetowaniu w swoich kampaniach, utrudniając im dotarcie do właściwej grupy odbiorców.
 
@@ -194,12 +101,13 @@ System automatycznie dobiera różne elementy kampanii, takie jak:
 * **Formaty reklam**.  
 * **Umiejscowienia reklam**.  
 * **Treści reklamowe**.
+    </br>
 
 Dzięki temu **Meta Advantage+ dąży do maksymalizacji skuteczności kampanii reklamowych**, nawet w warunkach ograniczonej dostępności danych o użytkownikach. Początkowo system koncentrował się głównie na kampaniach e-commerce, ale z czasem został rozszerzony na inne rodzaje reklam. **Narzędzia Advantage+ wykorzystują zaawansowane algorytmy AI do analizy zachowań użytkowników i danych z piksela Facebooka, aby wyświetlać spersonalizowane i angażujące reklamy, które zwiększają prawdopodobieństwo konwersji**.
 
 Meta Advantage+ nie tylko **automatyzuje procesy** związane z tworzeniem i optymalizacją kampanii, ale także **pozwala reklamodawcom skupić się na strategicznych aspektach** i tworzeniu angażujących treści reklamowych. System ten, dzięki analizie danych w czasie rzeczywistym i mechanizmom uczenia maszynowego, jest w stanie dostosowywać parametry kampanii w sposób dynamiczny, co przekłada się na lepsze wyniki i **zwiększenie zwrotu z inwestycji reklamowych (ROAS)**.
 
-**Celem niniejszego raportu jest dogłębna analiza wykorzystania technologii sztucznej inteligencji (AI) w systemie Meta Advantage+ w kontekście obniżenia kosztów kampanii reklamowych i zwiększenia sprzedaży w okresie od stycznia 2024 do stycznia 2025 roku.** Raport ma za zadanie dostarczyć **praktycznych wskazówek i rzetelnych informacji** reklamodawcom, którzy chcą efektywnie wykorzystać potencjał Meta Advantage+ do optymalizacji swoich działań marketingowych.
+Celem tego raportu jest dogłębna analiza wykorzystania technologii sztucznej inteligencji (AI) w systemie Meta Advantage+ w kontekście obniżenia kosztów kampanii reklamowych i zwiększenia sprzedaży w okresie od stycznia 2024 do stycznia 2025 roku. ====**Raport ma za zadanie dostarczyć **praktycznych wskazówek i rzetelnych informacji** reklamodawcom, którzy chcą efektywnie wykorzystać potencjał Meta Advantage+ do optymalizacji swoich działań marketingowych**====.
 
 W raporcie przedstawione zostaną **szczegółowe analizy techniczne systemu, jego infrastruktury i algorytmów**, a także omówione zostaną **konkretne funkcje i narzędzia** oferowane przez Meta Advantage+. Szczególny nacisk zostanie położony na **zrozumienie, w jaki sposób automatyzacja i personalizacja reklam, wspierane przez AI, mogą przyczynić się do poprawy wyników kampanii**. Raport ma również na celu zbadanie, jak Meta Advantage+ radzi sobie z wyzwaniami wynikającymi ze zmian w polityce prywatności (np. iOS 14), które wpłynęły na możliwości targetowania użytkowników.
 
@@ -207,48 +115,61 @@ Przez **analizę danych, studiów przypadków i porównań z tradycyjnymi metoda
 
 Dodatkowo, raport zawiera **prognozy dotyczące przyszłości Meta Advantage+**, w tym kierunki rozwoju technologii AI w reklamie, pełniejszą automatyzację i zaawansowane targetowanie. Celem raportu jest dostarczenie kompleksowego i aktualnego obrazu Meta Advantage+ **w perspektywie roku 2024-2025**, aby pomóc reklamodawcom w podejmowaniu świadomych decyzji i efektywnym wykorzystaniu możliwości, jakie oferuje ta technologia.
 
+</div>
+
+:::info
+
 ### Kluczowe wnioski
 
-**1\.** Meta Advantage+ minimalizuje skutki ograniczeń iOS 14 poprzez zaawansowane algorytmy AI
+* Meta Advantage+ minimalizuje skutki ograniczeń iOS 14 poprzez zaawansowane algorytmy AI
+* System ma automatyzować wszystkie kluczowe elementy kampanii, uwalniając czas marketerów
+* Analizy w czasie rzeczywistym mają zapewniać wysoką skuteczność mimo ograniczonego dostępu do danych
+* Z rozwiązania dla e-commerce ewoluował w kompleksową platformę reklamową Meta
 
-**2\.** System automatyzuje wszystkie kluczowe elementy kampanii, uwalniając czas marketerów
-
-**3\.** Analizy w czasie rzeczywistym zapewniają wysoką skuteczność mimo ograniczonego dostępu do danych
-
-**4\.** Z rozwiązania dla e-commerce ewoluował w kompleksową platformę reklamową
+:::
 
 # 
 
-# Cześć 1\. Technika za Meta Advantage+
+#  Na czym stoi Meta Advantage+? :desktop_computer:  
 
-## Infrastruktura Meta AI {#infrastruktura-meta-ai}
+## Infrastruktura Meta AI
 
-###### **Meta Advantage+ opiera się na zaawansowanej infrastrukturze sztucznej inteligencji (AI), która umożliwia analizę ogromnych zbiorów danych i optymalizację kampanii reklamowych w czasie rzeczywistym. Ta infrastruktura jest kluczowa dla skuteczności systemu i pozwala na dostarczanie spersonalizowanych reklam.**
+:::success
+**Meta Advantage+ opiera się na zaawansowanej infrastrukturze sztucznej inteligencji (AI), która umożliwia analizę ogromnych zbiorów danych i optymalizację kampanii reklamowych w czasie rzeczywistym. Ta infrastruktura jest kluczowa dla skuteczności systemu i pozwala na dostarczanie spersonalizowanych reklam.**
+:::
+
+<div class="two-column-layout">
 
 Głównymi elementami tej infrastruktury są:
-
-* **Algorytmy uczenia maszynowego**: Stanowią one podstawę działania Meta Advantage+ i są wykorzystywane do **analizy danych użytkowników, ich zachowań i preferencji**, a także do **optymalizacji kampanii reklamowych**. Algorytmy te uczą się na podstawie danych i dostosowują parametry kampanii w czasie rzeczywistym, aby osiągnąć jak najlepsze wyniki.  
-* **Sieci neuronowe**: Zaawansowane struktury obliczeniowe, które naśladują działanie ludzkiego mózgu, pomagają w **przetwarzaniu i analizie złożonych danych**. Umożliwiają one systemowi lepsze zrozumienie wzorców i zależności w danych, co przekłada się na bardziej precyzyjne targetowanie i optymalizację reklam.  
-    
-    
-* **Modele predykcyjne**: Wykorzystywane są do **przewidywania, które grupy docelowe będą najbardziej skłonne do interakcji z reklamami**, co pozwala na lepsze targetowanie i zwiększenie skuteczności kampanii. Modele te prognozują przyszłe zachowania użytkowników na podstawie analizy ich historii i preferencji.
+1. **Algorytmy uczenia maszynowego**: Stanowią one podstawę działania Meta Advantage+ i są wykorzystywane do **analizy danych użytkowników, ich zachowań i preferencji**, a także do **optymalizacji kampanii reklamowych**. Algorytmy te uczą się na podstawie danych i dostosowują parametry kampanii w czasie rzeczywistym, aby osiągnąć jak najlepsze wyniki.
+2. **Sieci neuronowe**: Zaawansowane struktury obliczeniowe, które naśladują działanie ludzkiego mózgu, pomagają w **przetwarzaniu i analizie złożonych danych**. Umożliwiają one systemowi lepsze zrozumienie wzorców i zależności w danych, co przekłada się na bardziej precyzyjne targetowanie i optymalizację reklam.   
+3. **Modele predykcyjne**: Wykorzystywane są do **przewidywania, które grupy docelowe będą najbardziej skłonne do interakcji z reklamami**, co pozwala na lepsze targetowanie i zwiększenie skuteczności kampanii. Modele te prognozują przyszłe zachowania użytkowników na podstawie analizy ich historii i preferencji.</br></br>
 
 Kluczową rolę w infrastrukturze Meta Advantage+ odgrywają również **dedykowane chipy krzemowe** oraz centra danych Meta, które są zoptymalizowane do **uruchamiania modeli AI**. Do tych innowacji należą:
 
-* **NVIDIA Grace Hopper Superchip:** Ten zaawansowany układ scalony, **wspomaga procesy uczenia maszynowego**, umożliwiając Meta **efektywną analizę dużych zbiorów danych** i **szybką personalizację reklam**. Jest on zaprojektowany do obsługi dużych ilości danych, co **zwiększa zwrot z inwestycji reklamowych**.  
+* **NVIDIA Grace Hopper Superchip:** GH200 to superkomputer na jednym chipie, który łączy w sobie procesor (CPU) i kartę graficzną (GPU). Jest on stworzony głównie do obsługi sztucznej inteligencji i bardzo złożonych obliczeń. Jest około 10 razy szybszy od zwykłych procesorów, gdy pracuje z ogromnymi ilościami danych. To taki **"kombajn obliczeniowy", który szczególnie dobrze radzi sobie z zadaniami związanymi z AI i badaniami naukowymi**.
     
     
 * **Meta Training and Inference Accelerator (MTIA):** Jest to **własny akcelerator firmy Meta**, który jest zoptymalizowany pod kątem **przetwarzania danych w modelach AI**. MTIA umożliwia **szybsze przetwarzanie danych** oraz **lepszą wydajność algorytmów**, co jest kluczowe dla skuteczności kampanii reklamowych.
 
 Infrastruktura Meta Advantage+ jest zaprojektowana tak, aby **efektywnie przetwarzać informacje w czasie rzeczywistym**, co umożliwia dostarczanie **bardziej spersonalizowanych i skutecznych reklam**. Dzięki zastosowaniu tych zaawansowanych technologii, system jest w stanie na bieżąco monitorować wydajność kampanii i dynamicznie dostosowywać parametry, takie jak budżet, targetowanie i treści reklamowe, aby **osiągnąć jak najlepsze rezultaty**. **Szybkie przetwarzanie danych** i **wydajność algorytmów** są kluczowe dla **optymalizacji kampanii** i osiągania **wyższego ROAS**. System jest zaprojektowany do obsługi dużych ilości danych, co **zwiększa zwrot z inwestycji reklamowych**.
 
-Infrastruktura ta opiera się również na **Meta Lattice**, innowacyjnej strukturze, która umożliwia **lepsze przewidywanie wyników reklam** w różnych kontekstach, co **zwiększa efektywność kampanii**. **Meta Lattice** umożliwia także **szybsze dostosowywanie się do zmieniających się warunków rynkowych**.
+Infrastruktura ta opiera się również na **Meta Lattice**, innowacyjnej sieci, która umożliwia **lepsze przewidywanie wyników reklam** w różnych kontekstach, co **zwiększa efektywność kampanii**. **Meta Lattice** umożliwia także **szybsze dostosowywanie się do zmieniających się warunków rynkowych**.
 
-![][image1]
+</div>
 
-## Mechanizmy backendu {#mechanizmy-backendu}
+![Schemat działania Meta Lattice](https://hackmd.io/_uploads/HJPCpQEuyg.png)
 
-###### **Mechanizmy backendowe Meta Advantage+ są kluczowe dla jego działania i odpowiadają za kompleksowe zarządzanie kampaniami reklamowymi. System ten działa w oparciu o zaawansowaną infrastrukturę, która umożliwia przetwarzanie ogromnych ilości danych w czasie rzeczywistym.**
+    
+
+
+## Mechanizmy backendu
+
+:::success
+**Mechanizmy backendowe Meta Advantage+ są kluczowe dla jego działania i odpowiadają za kompleksowe zarządzanie kampaniami reklamowymi. System ten działa w oparciu o zaawansowaną infrastrukturę, która umożliwia przetwarzanie ogromnych ilości danych w czasie rzeczywistym.**
+:::
+
+<div class="two-column-layout">
 
 **Główne procesy backendowe obejmują:**
 
@@ -282,22 +203,23 @@ Infrastruktura ta opiera się również na **Meta Lattice**, innowacyjnej strukt
 
 * System **stale monitoruje wydajność kampanii** i **dostarcza szczegółowe raporty i analizy**.  
   * Reklamodawcy mają dostęp do **wskaźników skuteczności kampanii**, takich jak **ROAS**, koszt zakupu, współczynnik konwersji i CTR, które pozwalają na ocenę wyników i wprowadzanie niezbędnych korekt.  
-  * W przypadku kampanii Advantage Shopping należy monitorować wskaźnik **Event Match Quality**, który mierzy, jak dobrze dane klientów pasują do danych użytkowników Facebooka.
+  * ====**W przypadku kampanii Advantage Shopping należy monitorować wskaźnik **Event Match Quality**, który mierzy, jak dobrze dane klientów pasują do danych użytkowników Facebooka.**====
 
 **Backend systemu, znany jako Meta Andromeda**, jest kluczowym elementem personalizacji reklam. Wykorzystuje zaawansowane algorytmy do selekcji i rekomendacji reklam, co pozwala na lepsze dopasowanie treści do indywidualnych preferencji użytkowników. **Meta Lattice** to innowacyjna struktura, która pozwala na lepsze przewidywanie wyników reklam w różnych kontekstach, co zwiększa efektywność kampanii.
 
-**Podsumowując, mechanizmy backendowe Meta Advantage+ działają \- w teorii \- jak zaawansowany system nerwowy, który nieustannie przetwarza dane, uczy się, optymalizuje i raportuje wyniki, aby kampanie reklamowe były jak najbardziej skuteczne.** System ten jest zaprojektowany do **automatyzacji i personalizacji działań reklamowych**, co pozwala reklamodawcom na **osiągnięcie lepszych wyników przy mniejszym nakładzie pracy manualnej**.
+>[!Tip] Do zapamiętania
+**Mechanizmy backendowe Meta Advantage+ działają \- w teorii \- jak zaawansowany system nerwowy, który nieustannie przetwarza dane, uczy się, optymalizuje i raportuje wyniki.** System ten jest zaprojektowany do **automatyzacji i personalizacji działań reklamowych**, co ma pozwalać reklamodawcom na **osiągnięcie lepszych wyników przy mniejszym nakładzie pracy manualnej**.
 
+</div>
+
+:::info
 ### Kluczowe wnioski
 
-**1\.** Zaawansowana infrastruktura (NVIDIA Grace Hopper i MTIA) umożliwia przetwarzanie ogromnych ilości danych w czasie rzeczywistym
-
-**2\.** System wykorzystuje uczenie maszynowe i sieci neuronowe do ciągłej optymalizacji kampanii
-
-**3\.** Meta Andromeda i Meta Lattice personalizują reklamy i przewidują ich skuteczność w różnych kontekstach
-
-**4\.** Automatyzacja procesu może preferować remarketing kosztem pozyskiwania nowych odbiorców
-
+* Zaawansowana infrastruktura (NVIDIA Grace Hopper i MTIA) umożliwia przetwarzanie ogromnych ilości danych w czasie rzeczywistym
+* System wykorzystuje uczenie maszynowe i sieci neuronowe do ciągłej optymalizacji kampanii
+* Meta Andromeda i Meta Lattice personalizują reklamy i przewidują ich skuteczność w różnych kontekstach
+* Automatyzacja procesu może preferować remarketing kosztem pozyskiwania nowych odbiorców
+:::
 ## 
 
 ## 
